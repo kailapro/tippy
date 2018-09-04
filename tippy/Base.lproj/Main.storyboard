@@ -92,7 +92,7 @@
                                 </connections>
                             </textField>
                         </subviews>
-                        <color key="backgroundColor" red="0.0" green="0.01337114519694207" blue="0.19676975388601037" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.93687599914491859" green="0.84751417924841865" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <gestureRecognizers/>
                         <connections>
                             <outletCollection property="gestureRecognizers" destination="D15-Kq-0yO" appends="YES" id="Xx4-lC-RX7"/>
