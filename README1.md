@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WJnf6MP"><a href="//imgur.com/WJnf6MP">tip calculator gif - Kaila Prochaska</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://giphy.com/embed/1oF1NVaQE9zHyQJyZr' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <iframe src="https://giphy.com/embed/1oF1NVaQE9zHyQJyZr" width="249" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1oF1NVaQE9zHyQJyZr">via GIPHY</a></p>
 
